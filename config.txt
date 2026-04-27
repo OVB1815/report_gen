@@ -1,0 +1,27 @@
+# ==============================================================
+#  config.txt — Project Metadata
+#
+#  Edit the values to the right of the colon for each project.
+#  Do not change the key names on the left side of the colon.
+# ==============================================================
+
+firm_name:        CET, Inc.
+firm_address:     6300 Melton Road | Portage, IN 46368
+firm_phone:       (219) 762-1431
+firm_website:     www.cetincorp.com
+
+project_name:     Field Visit
+property_name:    USS GARY WORKS
+property_address: 1 North Broadway, Gary, IN 46402
+
+project_number:   69-26-03
+report_date:      April 20, 2026
+inspection_date:  April 8, 2026
+prepared_by:      Andrew Zollos, Frank Shrieves, Toby Berry, Paul Ostrander, Bill Eck
+reviewed_by:      Patrick Lyell, PE
+client:           United States Steel Corporation
+report_title:     ETL 5 Modification Evaluation
+
+client_logo:      uss_logo.png
+firm_logo:        cet_logo.png
+cover_photo:      IMG_0001.JPG

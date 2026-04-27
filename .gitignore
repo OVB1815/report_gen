@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# But allow these specific files
+!.gitignore
+!build.bat
+!build_report.py
+!config.txt
+!executive_summary.txt
+!findings.csv
+!pyproject.toml
