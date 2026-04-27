@@ -3,6 +3,7 @@
 
 # But allow these specific files
 !.gitignore
+!README.md
 !build.bat
 !build_report.py
 !config.txt
